@@ -1,0 +1,27 @@
+aaa
+[user@host dir]# command
+mess1
+mess2
+mess3
+mess4
+mess5
+mess6
+mess7
+mess8
+mess9
+
+[user@host dir]# com2
+m1
+m2
+m3
+
+[user2@host2 dir2]# com3
+mm1
+mm2
+mm3
+mm4
+mm5
+mm6
+mm7
+
+[user2@host2 dir2]#

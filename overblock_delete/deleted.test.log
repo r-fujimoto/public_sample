@@ -1,0 +1,19 @@
+aaa
+[user@host dir]# command
+mess1
+mess2
+...6 lbufes deleted...
+mess9
+
+[user@host dir]# com2
+m1
+m2
+m3
+
+[user2@host2 dir2]# com3
+mm1
+mm2
+...4 lbufes deleted...
+mm7
+
+[user2@host2 dir2]#
